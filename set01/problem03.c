@@ -1,4 +1,4 @@
-//Write a C program to add two numbers using **pass by value**
+h//Write a C program to add two numbers using **pass by value**
 #include<stdio.h>
 int input();
 int add(int a, int b);
